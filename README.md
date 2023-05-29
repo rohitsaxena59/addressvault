@@ -1,6 +1,6 @@
-# Spring Boot Application
+# Address Vault Service
 
-This is a sample Spring Boot application that demonstrates various features and dependencies.
+This is address vault service application.
 
 ## Prerequisites
 
